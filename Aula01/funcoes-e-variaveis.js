@@ -48,7 +48,7 @@ console.log(
     "\nIdade:", pessoa.idade
 )
 
-//Isso é uma Array
+//Isso é uma Array (Array's sempre estão dentro de um Apóstrofo "[]")
 let cachorros = ["Bug", "Zeus", "Zaratrusta"]
 
 //ele mostrará o segundo nome, pois, o array começa do "0"
