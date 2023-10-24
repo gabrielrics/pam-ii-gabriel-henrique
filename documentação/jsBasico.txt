@@ -1,0 +1,6 @@
+"typeof" é uma função para saber o tipo da variável
+ex:
+
+Essa seta está sendo uma abreviação de como se declarar uma função
+chamada de 'aaron function'.
+ex:
