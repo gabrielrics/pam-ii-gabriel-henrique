@@ -32,7 +32,7 @@ somaComParametros();
 ////////////////////////////////////////////////////////////////////////////////
 
 //Essa seta está sendo uma abreviação de como se declarar uma função
-//chamada de 'aaron function'.
+//chamada de 'Aarow function'.
 
 //A função espera a entrada, ela recebe a entrada, ela processa e retorna (com o return).
 const multiplicacao = (n1, n2) => {
